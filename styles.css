@@ -1,0 +1,35 @@
+.post {
+    border: solid red;
+    background-color: white;
+    margin-left: 35%;
+    margin-right: 44%;
+}
+.fotobarra {
+    height: 25px;
+    margin-left: 280px;
+    margin-top: 25px;
+}
+.fotoicono {
+    height: 30px;
+    margin-top: 15px;
+}
+.cabeza {
+    display: flex;
+}
+.foto {
+    height: 300px;
+    width: 386px;
+}
+.icono1 {
+    height: 25px;
+}
+.icono2 { 
+    height: 25px;
+}
+.icono3 {
+    height: 25px;
+}
+.icono4 {
+    height: 25px;
+    margin-left: 270px;
+}
