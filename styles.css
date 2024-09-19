@@ -1,35 +1,39 @@
 .post {
     border: solid black;
     background-color: white;
-    margin-left: 35%;
-    margin-right: 44%;
+    width: 400px;
+    margin: auto;
+    
 }
 .fotobarra {
-    height: 25px;
-    margin-left: 280px;
-    margin-top: 25px;
+    font-size: large;
+    margin-left: 70%;
+    margin-top: 7%;
 }
 .fotoicono {
-    height: 30px;
-    margin-top: 15px;
+    width: 40px;
+    padding-top: 40%;
 }
 .cabeza {
     display: flex;
 }
+
 .foto {
-    height: 300px;
-    width: 386px;
+    width: 100%;
 }
 .icono1 {
-    height: 25px;
+    font-size: 27px;
 }
 .icono2 { 
-    height: 25px;
+    font-size: 27px;
 }
 .icono3 {
-    height: 25px;
+    font-size: 27px;
 }
 .icono4 {
-    height: 25px;
-    margin-left: 270px;
+    font-size: 27px;
+    margin-left: 70%;
+}
+.iconos {
+    display: flex;
 }
